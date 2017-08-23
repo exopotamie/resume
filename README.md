@@ -5,6 +5,12 @@ p: 603.440.5968 | e: kyra.davies@gmail.com
 
 ## Experience  
 
+### Freelance Violinist (2003-present)
+* Perform internationally as an orchestral and chamber musician with groups and artists such as the Portland (ME) Symphony Orchestra, Vermont Symphony Orchestra, Chattanooga Symphony Orchestra, South Florida Symphony Orchestra, National Repertory Orchestra, National Orchestral Institute, Britten/Pears Contemporary Ensemble (Aldeburgh, UK), Siena Music Festival (Siena, Italy), Symphony New Hampshire, New Hampshire Music Festival, Monadnock Music Festival, Josh Groban, Ramin Djawadi (Game of Thrones tour), Hans Zimmer Live
+* Currently maintain a private studio of violin and viola students and teach group lessons at an after-school strings program in Nashua, NH. Previously worked at an El Sistema program designed for the Haitian community in Hyde Park, MA; at the Sharon Music Academy in Sharon, MA; and teaching group lessons at the Saturday Morning Music School in Belmont, MA.
+* Contract musicians for events such as weddings, memorial services, and corporate parties. Negotiate contracts and fees, research and identify appropriate repertoire, arrange new repertoire when appropriate
+* Perform as a chamber musician as part of the Britten/Pears New Music Ensemble, itch, Hub New Music, and Semiosis Quartet, groups dedicated to promoting contemporary classical music
+
 ### Program Assistant (2017-present)
 #### Environmental Law Program, Harvard Law School
 * stuff goes here
@@ -63,9 +69,8 @@ p: 603.440.5968 | e: kyra.davies@gmail.com
 
 ### Editor/Office Assistant	(January 2004–January 2005)
 #### Rice University School Math Project 
-#	Maintained RUSMP’s website 
-#	Edited a series of geometry lessons used to train Houston Independent School District teachers 
-
+*	Maintained RUSMP’s website 
+*	Edited a series of geometry lessons used to train Houston Independent School District teachers 
 
 ## Education  
 ### Bachelor of Music, Rice University, 2007  
